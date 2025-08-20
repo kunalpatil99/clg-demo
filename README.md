@@ -1,3 +1,4 @@
 # clg-demo
 apna collge demo
-auther - kunal patil
+auther - 
+kunal patil
